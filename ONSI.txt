@@ -213,7 +213,7 @@ def my_tool_security():
         exit()
     except(FileNotFoundError):
         os.system('termux-setup-storage')
-        print("\t Welcome To MR AHSAN- MAFYIA 313 Tool ....")
+        print("\t Welcome To MR AHSAN- MAFYIA Tool ....")
         time.sleep(2)
         iid_1=uuid.uuid1().hex[:7].upper()
         iid_2=uuid.uuid1().hex[:7].upper()
@@ -337,7 +337,7 @@ def password():
     print(f"{RED}[03] {WHITE} 5 PASSWORDS  {GREEN} [ SLOW   🐌]")
     linex()
     print("")
-    passX = input(f" {RED}CHOOSE{ahsan2} : ")
+    passX = input(f" {RED}CHOOSE{hamii2} : ")
     if passX in ['1','01']:
         os.system("xdg-open https://www.facebook.com/profile.php?id=safdar.baloch.395")
         password1()

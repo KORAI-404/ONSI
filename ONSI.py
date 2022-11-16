@@ -337,7 +337,7 @@ def password():
     print(f"{RED}[03] {WHITE} 5 PASSWORDS  {GREEN} [ SLOW   🐌]")
     linex()
     print("")
-    passX = input(f" {RED}CHOOSE{ahsan2} : ")
+    passX = input(f" {RED}CHOOSE{hamii2} : ")
     if passX in ['1','01']:
         os.system("xdg-open https://www.facebook.com/profile.php?id=safdar.baloch.395")
         password1()
